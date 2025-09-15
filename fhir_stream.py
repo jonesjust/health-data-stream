@@ -45,7 +45,6 @@ class FHIRStreamer:
             'Encounter': ('fhir-encounter', 'period.start'),
             'Condition': ('fhir-condition', 'onsetDateTime'),
             'Observation': ('fhir-observation', 'effectiveDateTime')
-
         }
 
         self.blob_service_client = self.get_blob_service_client()

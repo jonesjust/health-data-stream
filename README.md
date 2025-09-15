@@ -52,3 +52,9 @@ Create a `.env` in the project root
 `python test_fhir_stream.py`
 - Lists available files.
 - Prints resource previews, timestamps, and intended destinations.
+
+## 🤝 Contributing
+
+### Submit a pull request
+
+If you'd like to contribute, please fork the repository and open a pull request to the `main` branch.
